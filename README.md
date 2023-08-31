@@ -29,10 +29,8 @@
 
 <!-- Contact Me -->
 <p align="center">
-  <samp>
-    [<a href="https://twitter.com/rxxxyhn">twitter</a>]
-    [<a href="https://instagram.com/rxyyyhn">instagram</a>]
-    [<a href="mailto:rxyhn.dev@gmail.com">e-mail</a>]
+  <samp>  
+    You can reach me at [<a href="mailto:rxyhn.dev@gmail.com">e-mail</a>]
   </samp>
 </p>
 
