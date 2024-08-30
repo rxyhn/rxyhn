@@ -8,13 +8,13 @@
       <b>
         Hello There
       <br>
-        I'm Rxyhn, a driven Computer Science student with a deep passion for Software Engineering, AI, and Blockchain technology.
+        I'm Rayhan Pratama, a driven Computer Science student with a deep passion for Software Engineering, AI, and Blockchain technology.
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
       <br>
       <b>
-        ~ Rayhan K. Pratama ~
+        ~ Simplicitate anima efficaciae est. ~
       </b>
     </samp>
   </p>
