@@ -6,9 +6,9 @@
   <p align="center">
     <samp>
       <b>
-        Hello There
+        Welcome
       <br>
-        I'm Rayhan Pratama, a driven Computer Science student with a deep passion for Software Engineering, AI, and Blockchain technology.
+        I'm Rayhan Pratama, a software engineer and Linux enthusiast with a passion for AI and blockchain technologies."
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+efficient+and+elegant+programs.">
