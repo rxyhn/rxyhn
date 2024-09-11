@@ -11,7 +11,7 @@
         I'm Rayhan Pratama, a driven Computer Science student with a deep passion for Software Engineering, AI, and Blockchain technology.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+efficient+and+elegant+programs.">
       <br>
       <b>
         ~ Simplicitate anima efficaciae est. ~
