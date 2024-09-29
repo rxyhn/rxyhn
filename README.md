@@ -16,7 +16,7 @@
       </b>
       <br />
       <img
-        src="https://readme-typing-svg.demolab.com?font=Iosevka&size=14&pause=1000&color=9D7CD8&center=true&vCenter=true&width=504&lines=++++++++Crafting+efficient%2C+resilient%2C+and+seamless+solutions."
+        src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=528&lines=++++++++Crafting+efficient%2C+resilient%2C+and+seamless+solutions."
         alt="Typing SVG"
       />
       <br />
