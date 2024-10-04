@@ -9,16 +9,10 @@
       <b>
         Welcome
         <br />
-        I'm Rayhan Pratama, a Computer Science student.
-        <br />
-        Driven by a passion for building scalable and efficient systems with a
-        strong focus on development and operations.
+        I'm Rayhan Kafi Pratama, a computer science student.
       </b>
       <br />
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=528&lines=++++++++Crafting+efficient%2C+resilient%2C+and+seamless+solutions."
-        alt="Typing SVG"
-      />
+      <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=435&lines=I+code+efficient+and+elegant+programs" alt="Typing SVG" />
       <br />
     </samp>
   </p>
@@ -32,16 +26,12 @@
     </summary>
     <h2></h2>
     <br />
-    <!-- Contact Me -->
-    <p align="center">
-      <samp>
-        You can reach me at [<a href="mailto:rxyhn.dev@gmail.com">e-mail</a>]
-      </samp>
-    </p>
+    <!-- Info -->
     <p align="center">
       <samp
         >[ <a href="https://rxyhn.is-a.dev/about">about me</a> .
         <a href="https://rxyhn.is-a.dev/projects">projects</a> .
+        <a href="mailto:rxyhn.dev@gmail.com">contact</a> .
         <a href="https://github.com/sponsors/rxyhn">sponsor</a>
         ]</samp
       >
