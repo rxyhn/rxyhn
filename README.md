@@ -38,17 +38,6 @@
     </p>
     <h2></h2>
     <br />
-    <!-- Profile Views Badge -->
-    <p align="center">
-      <samp>
-        <a href="#--------">
-          <img
-            src="https://komarev.com/ghpvc/?username=raexera&label=Profile+Views&color=grey"
-            alt="profile views"
-          />
-        </a>
-      </samp>
-    </p>
     <!-- Github Trophy -->
     <div align="center">
       <table>
