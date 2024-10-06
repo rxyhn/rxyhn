@@ -1,4 +1,4 @@
-<!-- Rxyhn's GitHub Profile -->
+<!-- Raexera's GitHub Profile -->
 <div align="justify">
   <!-- Profile -->
   <p align="left">
@@ -29,10 +29,10 @@
     <!-- Info -->
     <p align="center">
       <samp
-        >[ <a href="https://rxyhn.is-a.dev/about">about me</a> .
-        <a href="https://rxyhn.is-a.dev/projects">projects</a> .
-        <a href="mailto:rxyhn.dev@gmail.com">contact</a> .
-        <a href="https://github.com/sponsors/rxyhn">sponsor</a>
+        >[ <a href="https://raexera.is-a.dev/about">about me</a> .
+        <a href="https://raexera.is-a.dev/projects">projects</a> .
+        <a href="mailto:raexera.dev@gmail.com">contact</a> .
+        <a href="https://github.com/sponsors/raexera">sponsor</a>
         ]</samp
       >
     </p>
@@ -43,7 +43,7 @@
       <samp>
         <a href="#--------">
           <img
-            src="https://komarev.com/ghpvc/?username=rxyhn&label=Profile+Views&color=grey"
+            src="https://komarev.com/ghpvc/?username=raexera&label=Profile+Views&color=grey"
             alt="profile views"
           />
         </a>
@@ -58,7 +58,7 @@
               ><img
                 align="center"
                 alt="GitHub Trophy"
-                src="https://github-trophies.vercel.app/?username=rxyhn&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=tokyonight"
+                src="https://github-trophies.vercel.app/?username=raexera&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=tokyonight"
             /></a>
           </td>
         </tr>
@@ -74,7 +74,7 @@
                 height="137px"
                 align="center"
                 alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=rxyhn&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=tokyonight"
+                src="https://github-readme-stats.vercel.app/api?username=raexera&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=tokyonight"
             /></a>
           </td>
           <td>
@@ -83,7 +83,7 @@
                 height="137px"
                 align="center"
                 alt="Top Language"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxyhn&layout=compact&line_height=21&hide_border=true&theme=tokyonight"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=raexera&layout=compact&line_height=21&hide_border=true&theme=tokyonight"
             /></a>
           </td>
         </tr>
