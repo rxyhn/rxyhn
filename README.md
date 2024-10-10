@@ -29,9 +29,9 @@
     <!-- Info -->
     <p align="center">
       <samp
-        >[ <a href="https://raexera.is-a.dev/about">about me</a> .
-        <a href="https://raexera.is-a.dev/projects">projects</a> .
-        <a href="mailto:raexera.dev@gmail.com">contact</a> .
+        >[ <a href="https://raexera.me/about">about me</a> .
+        <a href="https://raexera.me/projects">projects</a> .
+        <a href="mailto:raexera@gmail.com">contact</a> .
         <a href="https://github.com/sponsors/raexera">sponsor</a>
         ]</samp
       >
